@@ -1,8 +1,8 @@
 /*
  * This file is part of fixed point library.
  *
- * Developed for the Koh Young Technology RTL evaluation purpose.
- * This product includes software developed by the Koh Young Technology
+ * Developed for the under-byte fixed point arithmetic emulation purpose.
+ * This software developmend had been supported by Koh Young Technology Inc.
  * (https://www.kohyoung.com).
  * See the COPYRIGHT file at the top-level directory of this distribution
  * for details of code ownership.
